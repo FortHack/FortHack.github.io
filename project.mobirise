@@ -43,7 +43,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 20,
+    "uniqCompNum": 23,
     "versionPublish": "4.12.4",
     "imageResize": true,
     "favicon": false,
@@ -60,8 +60,8 @@
     "html.html": {
       "settings": {
         "main": true,
-        "title": "Wygraj bon Rossman 200zł lub rok Netflixa",
-        "meta_descr": "Wypełnij ankietę, dzięki której masz szanse wygrać darmowe nagrody.",
+        "title": "Odbierz Nagrody",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
